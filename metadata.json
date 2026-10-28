@@ -1,0 +1,6 @@
+{
+  "name": "WriteMate AI — Smart Writing Assistant",
+  "description": "Smart AI writing assistant to generate essays, social captions, emails, stories, and more in English, Urdu, and Roman Urdu with custom tones and lengths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
